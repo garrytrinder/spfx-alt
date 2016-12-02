@@ -1,0 +1,7 @@
+//@import '~normalize.css/normalize.css';
+@import '_variables';
+
+body {
+    font-family: $font-stack;
+    color:$primary-color;
+}
