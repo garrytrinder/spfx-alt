@@ -49,11 +49,11 @@ The bundled files will then be pushed into SharePoint by sp-save.
 
 ## Technologies Utilised
 
-TypeScript
-SASS
-gulp
-gulp-spsave
-webpack
+- TypeScript
+- SASS
+- gulp
+- gulp-spsave
+- webpack
 
 
 
