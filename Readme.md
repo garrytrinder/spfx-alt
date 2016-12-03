@@ -54,6 +54,7 @@ The bundled files will then be pushed into SharePoint by sp-save.
 - gulp
 - gulp-spsave
 - webpack
+- PnP Core JS
 
 
 

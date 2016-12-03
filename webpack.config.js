@@ -13,7 +13,8 @@ module.exports = {
             "",
             ".ts",
             ".tsx",
-            ".scss"
+            ".scss",
+            ".js"      
         ]
     },
     module: {
