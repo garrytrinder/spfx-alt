@@ -10,6 +10,8 @@
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
+    "@types/react": "^0.14.52",
+    "@types/react-dom": "^0.14.19",
     "@types/sharepoint": "^2013.0.31",
     "css-loader": "^0.26.0",
     "extract-text-webpack-plugin": "^1.0.1",
@@ -17,6 +19,9 @@
     "gulp": "^3.9.1",
     "gulp-spsave": "^3.0.0",
     "node-sass": "^3.13.0",
+    "office-ui-fabric-react": "^0.81.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
     "sass-loader": "^4.0.2",
     "source-map-loader": "^0.1.5",
     "sp-pnp-js": "^1.0.6",
