@@ -56,5 +56,5 @@ The bundled files will then be pushed into SharePoint by sp-save.
 - webpack
 - PnP Core JS
 
-
+A very basic Yeoman generator is also [available](https://github.com/garrytrinder/generator-spfx-alt)
 
