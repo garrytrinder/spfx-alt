@@ -18,7 +18,7 @@ Update spsave.config.js with your target SharePoint site and authentication deta
             flatten: false
         },
         credentials: {
-            username: "<user@<tenant.com>",
+            username: "<user>@<tenant.com>",
             password: "<password>"
         }
     };
