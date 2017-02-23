@@ -13,6 +13,7 @@
     "@types/lodash": "ts2.0",
     "@types/sharepoint": "2013.x.x",
     "css-loader": "0.26.x",
+    "es6-promise": "^4.0.5",
     "extract-text-webpack-plugin": "1.0.x",
     "file-loader": "0.9.x",
     "gulp": "3.9.x",

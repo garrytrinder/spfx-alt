@@ -1,3 +1,5 @@
+require("es6-promise/auto");
+
 import { sayHello } from "./greet";
 
 import pnp from "sp-pnp-js";
