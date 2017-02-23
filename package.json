@@ -11,7 +11,6 @@
   "devDependencies": {},
   "dependencies": {
     "@types/lodash": "ts2.0",
-    //http://stackoverflow.com/questions/42342978/npm-cannot-find-name-many-and-cannot-find-namespace-from-lodash-library
     "@types/sharepoint": "2013.x.x",
     "css-loader": "0.26.x",
     "extract-text-webpack-plugin": "1.0.x",
