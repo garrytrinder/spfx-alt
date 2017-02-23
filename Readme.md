@@ -18,7 +18,7 @@ Update spsave.config.js with your target SharePoint site and authentication deta
             flatten: false
         },
         credentials: {
-            username: "<user@<tenant.com>",
+            username: "<user>@<tenant.com>",
             password: "<password>"
         }
     };
@@ -56,5 +56,5 @@ The bundled files will then be pushed into SharePoint by sp-save.
 - webpack
 - PnP Core JS
 
-
+A very basic Yeoman generator is also [available](https://github.com/garrytrinder/generator-spfx-alt)
 
